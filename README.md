@@ -4,7 +4,7 @@
 
 <small><em>* REST service-specific information is from [here](https://www.restapitutorial.com/httpstatuscodes.html)</em></small>
 
-<small>An implementation of `http_response_code` for PHP < 5.4.0 can be found [here](http_response_code/README.md).</small>
+<small>An implementation of `http_response_code` for PHP < 5.4.0 can be found [here](http_response_code/).</small>
 
 ## [1xx Informational Response](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#1xx_Informational_response)
 
